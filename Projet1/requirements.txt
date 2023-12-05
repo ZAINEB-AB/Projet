@@ -17,6 +17,4 @@ streamlit_option_menu
 pyproj
 imageio
 plotly
-base64
-concurrent.futures 
-shapely.geometry
+concurrent.futures

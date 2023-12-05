@@ -223,7 +223,7 @@ tzlocal
 uc-micro-py
 uritemplate
 urllib3
-uvicorn       0.24.0.post1
+uvicorn
 validators
 vega-datasets
 watchdog

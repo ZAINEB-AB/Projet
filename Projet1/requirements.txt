@@ -17,4 +17,3 @@ streamlit_option_menu
 pyproj
 imageio
 plotly
-concurrent.futures
